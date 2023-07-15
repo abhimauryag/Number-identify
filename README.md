@@ -23,7 +23,7 @@ The application is built using HTML, CSS, and JavaScript.
 
 To get started with the Number Conditions application, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/number-conditions.git`
+1. Clone the repository: `git clone https://github.com/abhimauryag/number-conditions.git`
 2. Open the index.html file in your web browser.
 3. Enter a number and click the "Check" button to see the results.
 
