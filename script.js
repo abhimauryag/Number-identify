@@ -1,5 +1,4 @@
- <script>
-        function checkNumber() {
+function checkNumber() {
             var num = parseInt(document.getElementById("number").value);
             
             // Check if the number is prime or not
@@ -51,4 +50,3 @@
             document.getElementById("squareOfNumber").innerHTML = "Square of the number: " + (num * num);
             document.getElementById("cubeOfNumber").innerHTML = "Cube of the number: " + (num * num * num);
         }
-    </script>
